@@ -6,6 +6,7 @@
 * https://clickup.com/
 * https://gitlab.com
 * https://trello.com/
+* https://www.mydevice.io/
 
 
 ## Telegram
